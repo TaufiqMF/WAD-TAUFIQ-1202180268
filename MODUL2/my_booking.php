@@ -24,7 +24,7 @@ if (isset($_POST['durasi'])) {
 }
 
 if (isset($_POST['nama'])) {
-    $nama = $_POST['nama'];
+    $nama = $_POST['name'];
 }
 
 

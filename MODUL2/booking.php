@@ -54,7 +54,7 @@
       <div class="col-lg-6">
 
 <!-- PINDAH KE MY_BOOKING -->
-        <form action="my_booking.php" method="POST">
+        <from action="my_booking.php" method="POST">
 <!-- PINDAH KE MY_BOOKING -->
 
 <!-- FORM BOOKING -->
@@ -119,7 +119,7 @@
           </div>
           <div class="form-group row">
             <div class="col-sm-10">
-            <button type="submit" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
+            <button type="" class="btn btn-primary" style="width: 100%;" name="submit">Book</button>
             </div>
           </div>
         </form>
