@@ -1,7 +1,7 @@
 <?php
 include ('config.php');
 
-if (isset($_POST['submit'])) {
+if (isset($_GET['submit'])) {
     $nama = $_POST['nama'];
     $deskripsi = $_POST['deskripsi'];
     $kategori = $_POST['kategori'];

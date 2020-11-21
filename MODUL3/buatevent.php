@@ -41,7 +41,7 @@
                 <br>
             </div>
         </div>
-        <form action="create.php" method="post" enctype="multipart/form-data">
+        <form action="creates.php" method="post" enctype="multipart/form-data">
             <div class="row mx-auto">
                 <div class="col-sm bg-light rounded-bottom mr-2">
                     <div class="form-group">
