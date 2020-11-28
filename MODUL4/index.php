@@ -1,7 +1,7 @@
 <?php
 include ('function/config.php');
 $database = new database();
-session_start();
+session_destroy();
 if (! isset($_SESSION['is_login'])) {
     header('location:login.php');
 }

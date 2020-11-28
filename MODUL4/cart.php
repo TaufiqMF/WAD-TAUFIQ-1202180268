@@ -2,7 +2,7 @@
 include_once('function/config.php');
 $database = new database();
 session_start();
-if (! isset($_SESSION['is_login'])) {
+if ( isset($_SESSION['is_login'])) {
     header('location:login.php');
 }
 
